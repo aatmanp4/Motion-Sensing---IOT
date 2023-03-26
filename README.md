@@ -1,6 +1,6 @@
 # Motion-Sensing---IOT
 <h1 align="center">Hi 👋, I'm Aatman Patel</h1>
-<h3 align="center">A passionate Electronics Engineer from India</h3>
+<h3 align="center">Electronics and Machine Learning </h3>
 
 - 📫 Reach me: **aatmanp4@gmail.com**
 
