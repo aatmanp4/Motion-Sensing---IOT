@@ -1,4 +1,4 @@
-# Motion-Sensing---IOT
+
 <h1 align="center">Hi 👋, I'm Aatman Patel</h1>
 <h3 align="center">Computer Architecture | Embedded Systems | ASIC & FPGA </h3>
 
