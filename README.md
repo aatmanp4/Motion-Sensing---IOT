@@ -1,6 +1,6 @@
 # Motion-Sensing---IOT
 <h1 align="center">Hi 👋, I'm Aatman Patel</h1>
-<h3 align="center">Embedded Systems and Machine Learning </h3>
+<h3 align="center">Computer Architecture | Embedded Systems | ASIC & FPGA </h3>
 
 - 📫 Reach me: **aatmanp4@gmail.com**
 
